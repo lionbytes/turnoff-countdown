@@ -14,7 +14,7 @@ A popup warning appears at the 10-minute mark so you're never caught off guard. 
 
 ### Usage:
 
-1. Run `All Timer.bat` as a normal user (no admin rights required for process termination of user-owned apps; shutdown/restart may prompt UAC)
+1. Run `turnoff-countdown.bat` or `turnoff-countdown.exe` as a normal user (no admin rights required for process termination of user-owned apps; shutdown/restart may prompt UAC)
 2. Enter the session length in minutes
 3. Choose an end action and follow the prompts
 4. The countdown starts — you can close the terminal freely
